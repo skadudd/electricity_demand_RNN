@@ -56,13 +56,15 @@
 
 #### B.4. 결과
 ![](https://i.imgur.com/zi2NPT4.png)
-<fig 6>
+- <fig 6>
 
 ![](https://i.imgur.com/Uy6Q4b9.png)
-<fig 3>
+- <fig 3>
 
 ![](https://i.imgur.com/08piGPK.png)
-<fig 4>
+- <fig 4>
+
+**실험 결과 차트**
 
 | 파라미터                  | Type 1    | Type 2         | Type 3                       | Type 4              | Type 5                            |
 | ------------------------- | --------- | -------------- | ---------------------------- | ------------------- | --------------------------------- |
@@ -93,7 +95,7 @@
 
 ### C. Deck
 ---
-프로젝트를 정리한 PPT 자료입니다.
+프로젝트를 정리한 PPT 자료입니다.<br>
 [세상에서 가장 가벼운 전력 수요 예측](https://drive.google.com/file/d/1anWzRXz_ToiCxklVeaMxJJ7jwe3FZvgn/view?usp=sharing)
 
 ### D. Methods Used
