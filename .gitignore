@@ -1,0 +1,12 @@
+*.csv
+*.xlsx
+*.pdf
+*.zip
+*.pickle
+*.pth
+/eda-data/API.csv
+.DS_STORE
+*.pkl
+*.txt
+/processed_df/*.pkl
+*.parquet
