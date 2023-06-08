@@ -97,7 +97,7 @@
 ### C. Deck
 ---
 프로젝트를 정리한 PPT 자료입니다.<br>
-[세상에서 가장 가벼운 전력 수요 예측](https://drive.google.com/file/d/1anWzRXz_ToiCxklVeaMxJJ7jwe3FZvgn/view?usp=sharing)
+[세상에서 가장 가벼운 전력 수요 예측](https://drive.google.com/file/d/1xdSYDRWfCK1aVT8bA61yfiCvz7HBJ5BL/view?usp=sharing)
 
 ### D. Methods Used
 ---
