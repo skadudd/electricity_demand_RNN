@@ -55,13 +55,13 @@
 - 성능이 유사한 경우, 경제성 원칙에 따라 달력 데이터와 전력 수요 데이터만을 사용하는 모델이 적합할 것입니다.
 
 #### B.4. 결과
-![](https://i.imgur.com/zi2NPT4.png)
+![fig -6](https://github.com/skadudd/electricity_demand_RNN/assets/15994105/da6cd296-d4e2-4c9d-a94e-092024f6e729)
 - <fig 6>
 
-![](https://i.imgur.com/Uy6Q4b9.png)
+![fig_3](https://github.com/skadudd/electricity_demand_RNN/assets/15994105/9f9f1a2a-1de8-40da-bada-13959c9153b0)
 - <fig 3>
 
-![](https://i.imgur.com/08piGPK.png)
+![fig_4](https://github.com/skadudd/electricity_demand_RNN/assets/15994105/67e82fd4-73ea-469e-8765-6a41ae01f344)
 - <fig 4>
 
 **실험 결과 차트**
